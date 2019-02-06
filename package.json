@@ -1,0 +1,39 @@
+{
+  "name": "react-native-range-slider",
+  "version": "1.0.0",
+  "description": "Slider control for ranges with customizable graduation and markers",
+  "main": "RangeSlider.tsx",
+  "dependencies": {
+    "prop-types": "^15.6.1",
+    "react": "^16.4.0",
+    "react-native": "^0.55.4"
+  },
+  "devDependencies": {
+    "@types/prop-types": "^15.5.3",
+    "@types/react": "^16.3.17",
+    "@types/react-native": "^0.55.17",
+    "react-native-typescript-transformer": "^1.2.9",
+    "tslib": "^1.9.2",
+    "typescript": "^2.9.1"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piropa/react-native-range-slider.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Range",
+    "Slider"
+  ],
+  "author": "Bruno Paulsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Piropa/react-native-range-slider/issues"
+  },
+  "homepage": "https://github.com/Piropa/react-native-range-slider#readme"
+}

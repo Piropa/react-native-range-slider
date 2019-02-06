@@ -1,0 +1,22 @@
+{
+  "name": "react-native-range-slider",
+  "version": "1.0.0",
+  "description": "Slider control for ranges with customizable graduation and markers  ",
+  "main": "RangeSlider.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Range",
+    "Slider"
+  ],
+  "author": "Bruno Paulsen",
+  "license": "ISC",
+  "dependencies": {
+    "prop-types": "^15.6.1",
+    "react": "^16.4.0",
+    "react-native": "^0.55.4"
+  }
+}
